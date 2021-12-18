@@ -1,2 +1,2 @@
-# Baysian_Insurance
-Bayesian Statistics for Actuarial Experience Analysis
+# Baysian Insurance
+In this project, I created Bayesian logistic regression models to predict automobile insurance incidence rates. I compared the results with frequentist models.
